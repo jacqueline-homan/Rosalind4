@@ -1,1 +1,7 @@
-﻿
+﻿Problem:
+
+A sequence is an ordered collection of objects (usually numbers), 
+which are allowed to repeat.
+
+A recurrence relation is a way of defining the terms of a sequence 
+with respect to the values of previous terms.

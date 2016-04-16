@@ -1,0 +1,5 @@
+/Users/admin/Projects/F-Sharp/Rosalind4/Rosalind4/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/F-Sharp/Rosalind4/Rosalind4/bin/Debug/Rosalind4.exe.mdb
+/Users/admin/Projects/F-Sharp/Rosalind4/Rosalind4/bin/Debug/Rosalind4.exe
+/Users/admin/Projects/F-Sharp/Rosalind4/Rosalind4/obj/x86/Debug/Rosalind4.exe
+/Users/admin/Projects/F-Sharp/Rosalind4/Rosalind4/obj/x86/Debug/Rosalind4.exe.mdb
